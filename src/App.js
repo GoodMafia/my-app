@@ -3,9 +3,10 @@ import './style/App.css';
 
 function App() {
   return (
-    <div className="App">
-      Hello world
+    <div>
+      didn't know what to change :)
     </div>
+
   );
 }
 export default App;
